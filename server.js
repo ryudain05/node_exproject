@@ -1,2 +1,3 @@
 /* eslint-disable-next-line no-console*/
-console.log(eval())
+
+exports = 3
